@@ -1,0 +1,10 @@
+{
+	"ignore": [
+		".git",
+		".vscode",
+		"node_modules"
+	],
+    "projects": {
+    	"packages/cucumber-extended": "https://github.com/thecodechef/sublime-cucumber-extended.git"
+    }
+}
