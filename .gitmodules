@@ -1,7 +1,0 @@
-[submodule "packages/cucumber-extended"]
-    path = packages/cucumber-extended
-	url = https://github.com/thecodechef/sublime-cucumber-extended.git
-
-[submodule "packages/advanced-new-file-extended"]
-    path = packages/advanced-new-file-extended
-	url = https://github.com/thecodechef/sublime-advanced-new-file-extended.git
