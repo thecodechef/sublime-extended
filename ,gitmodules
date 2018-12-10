@@ -1,3 +1,0 @@
-[submodule "packages/cucumber-extended"]
-    path = packages/cucumber-extended
-	url = https://github.com/thecodechef/sublime-cucumber-extended.git

@@ -1,10 +1,11 @@
 {
-	"ignore": [
-		".git",
-		".vscode",
-		"node_modules"
-	],
-    "projects": {
-    	"packages/cucumber-extended": "https://github.com/thecodechef/sublime-cucumber-extended.git"
-    }
+  "ignore": [
+    ".git",
+    ".vscode",
+    "node_modules"
+  ],
+  "projects": {
+    "packages/cucumber-extended": "https://github.com/thecodechef/sublime-cucumber-extended.git",
+    "packages/advanced-new-file-extended": "https://github.com/thecodechef/sublime-advanced-new-file-extended.git"
+  }
 }
